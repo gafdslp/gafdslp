@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6DAED3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+o+Guilherme+Santos;28+anos,+entusiasta+pela+vida;Mineiro,+de+Belo+Horizonte;Apaixonado+por+Tecnologia,+Inovação+e+Qualidade;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
